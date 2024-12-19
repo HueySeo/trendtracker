@@ -1,7 +1,7 @@
 {
     "latest_version": "1.1v",
-    "file_name" : "TT.exe",
-    "temp_file_name" : "TT_update.exe",
-    "update_file_path" : "\\fre_filer03\2300testdata\HeLeakSPC\data\leak_log\Trend Tracker\",
-    "updater_path" : "\\fre_filer03\2300testdata\HeLeakSPC\data\leak_log\Trend Tracker\util\updater.exe"
+    "file_name": "TT.exe",
+    "temp_file_name": "TT_update.exe",
+    "update_file_path": "\\\\fre_filer03\\2300testdata\\HeLeakSPC\\data\\leak_log\\Trend Tracker\\",
+    "updater_path": "\\\\fre_filer03\\2300testdata\\HeLeakSPC\\data\\leak_log\\Trend Tracker\\util\\updater.exe"
 }
