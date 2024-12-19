@@ -3,5 +3,5 @@
     "file_name": "TT.exe",
     "temp_file_name": "TT_update.exe",
     "updater_file_name": "updater.exe",
-    "updater_path": "https://gemini-files.lamresearch.com/script-files/application/trend_tracker/"
+    "azure_file_path": "https://gemini-files.lamresearch.com/script-files/application/trend_tracker/"
 }
